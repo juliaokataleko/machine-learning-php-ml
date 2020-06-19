@@ -1,0 +1,13 @@
+{
+    "name": "hp/php-ml",
+    "description": "Estudando machine learning com o PHP utilizando o PHP-ML",
+    "authors": [
+        {
+            "name": "juliaokataleko",
+            "email": "juliofeli78@gmail.com"
+        }
+    ],
+    "require": {
+        "php-ai/php-ml": "^0.9.0"
+    }
+}
